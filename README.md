@@ -1,6 +1,9 @@
 # PLATAFORMA-GUIA-FLEXBOX
 Nesta plataforma você pode treinar e praticar seus conhecimentos em FLEX-BOX
 
+FAÇA UM TESTE: https://glaudson-nunes.github.io/PLATAFORMA-GUIA-FLEXBOX/
+
+
 ![23-59-51](https://user-images.githubusercontent.com/93484378/153985213-69f8a79b-3ac8-49fa-9188-784cda29c54a.gif)
 
 ![00-04-03](https://user-images.githubusercontent.com/93484378/153985309-8cbdb7a3-2fb0-468d-9107-f68a0230b9a5.gif)
