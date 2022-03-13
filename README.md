@@ -1,5 +1,5 @@
 # PLATAFORMA-GUIA-FLEXBOX
-Nesta plataforma você pode treinar e praticar seus conhecimentos em FLEX-BOX
+Nesta plataforma você pode treinar e praticar seus conhecimentos em FLEX-BOX.
 
 FAÇA UM TESTE: https://glaudson-nunes.github.io/PLATAFORMA-GUIA-FLEXBOX/
 
